@@ -45,7 +45,7 @@ While blindly submitting PRs is definitely possible, they're not necessarily goi
 We aren't looking for flashy features, but expanding upon the existing feature set without distruption or endangering future viability of the project is OK.
 
 ### Building
-If you want to build the launcher yourself, check [BUILD.md](BUILD.md) for build instructions.
+If you want to build the launcher yourself, check [BUILD.md](https://github.com/MultiMC/Launcher/blob/main/BUILD.md) for build instructions.
 
 ### Code formatting
 Just follow the existing formatting.
