@@ -3,7 +3,7 @@
 ## **Download:**
 
 **https://raw.githubusercontent.com/BluePlattypus/MultiMC-Installer/main/installer.bat**
-Right click this link 🠕 and click 
+Right click this link 🠕 and click "Save linked content as..." and save it to your Desktop.
 
 ## **How to run:**
 
