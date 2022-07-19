@@ -1,5 +1,10 @@
 # MultiMC-Installer
 
+## **Download:**
+
+**https://raw.githubusercontent.com/BluePlattypus/MultiMC-Installer/main/installer.bat**
+Right click this link 🠕 and click 
+
 ## **How to run:**
 
 **1. Open "Installer.bat" 
