@@ -29,6 +29,8 @@
     icacls "%IPATH%\MultiMC" /grant %Username%:(OI)(CI)F /T
     type "Successfully installed!"
     
+***Enjoy*** 😁
+
 ## **Original Readme.md:**
 
 ## **MultiMC**
@@ -79,6 +81,3 @@ You must provide your own branding if you want to distribute your own builds.
 You will also have to register your own app on Azure to be able to handle Microsoft account logins.
 
 If you decide to fork the project, a mention of its origins in the About dialog and the license is acceptable. However, it should be abundantly clear that the project is a fork *without* implying that you have our blessing.
-
-
-***Enjoy*** 😁
