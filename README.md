@@ -32,7 +32,6 @@
 ## **Original Readme.md:**
 
 ## **MultiMC**
-=======
 
 MultiMC is a custom launcher for Minecraft that focuses on predictability, long term stability and simplicity.
 
