@@ -8,7 +8,7 @@
 
 ## **How to run:**
 
-**1. Open "Installer.bat" 
+**1. Open "installer.bat" 
 (if you want to install MultiMC in a protected folder E.g.: "C:\Program Files (x86)" then you need to run the .bat as administrator)**
 
 **2. Enter the installationpath 
