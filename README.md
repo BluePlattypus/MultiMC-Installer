@@ -1,4 +1,4 @@
-# MultiMC-Installer
+# multimc-installer
 
 ## **Download:**
 
@@ -27,5 +27,3 @@
     powershell "$s=(New-Object -COM WScript.Shell).CreateShortcut('%AppData%\Microsoft\Windows\Start Menu\Programs\MultiMC.lnk');$s.TargetPath=('%IPATH%\MultiMC\MultiMC.exe');$s.IconLocation=('%IPATH%\MultiMC\MultiMC.exe');$s.WorkingDirectory=('%IPATH%\MultiMC');$s.WindowStyle=1;$s.Save()"
     icacls "%IPATH%\MultiMC" /grant %Username%:(OI)(CI)F /T
     type "Successfully installed!"
-    
-***Enjoy*** 😁
