@@ -2,7 +2,7 @@
 
 ## **Download:**
 
-**https://raw.githubusercontent.com/BluePlattypus/MultiMC-Installer/main/installer.bat**
+**https://raw.githubusercontent.com/BlueSchnabeltier/multimc-installer/main/installer.bat**
 
 ***Right click this link ⇧ and click "Save linked content as..." and save it to your Desktop.***
 
